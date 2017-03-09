@@ -22,3 +22,7 @@ Or install it yourself as:
 
     require 'ikeaboy'
     Ikeaboy.enlighten_me
+
+## Download
+
+https://rubygems.org/gems/ikeaboy
