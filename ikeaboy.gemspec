@@ -6,11 +6,11 @@ require 'ikeaboy/version'
 Gem::Specification.new do |spec|
   spec.name          = "ikeaboy"
   spec.version       = Ikeaboy::VERSION
-  spec.authors       = ["Maverick"]
-  spec.email         = ["maverick6688@gmail.com"]
+  spec.authors       = ["Maverick Stoklosa"]
+  spec.email         = ["stoklomav@gmail.com"]
   spec.summary       = %q{Tyler Durden's wisdom at your fingertips.}
   spec.description   = %q{Generates quotes from the movie Fight Club.}
-  spec.homepage      = "https://github.com/maverick2000/ikeaboy"
+  spec.homepage      = "https://github.com/maverick9000/ikeaboy"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
